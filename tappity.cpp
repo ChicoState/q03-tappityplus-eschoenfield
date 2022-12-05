@@ -80,11 +80,3 @@ double tappity::accuracy()
   }
   double final = (perc/max)*100;
   return final;
-  // else{
-  //   for(int i=0; i<ref.length(); i++){
-  //     if(ref[i]!=inp[i])
-  //   }
-  //   return -(perc/ref.length());
-  // }
-  // return 0;
-}
